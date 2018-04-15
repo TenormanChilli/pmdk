@@ -135,10 +135,8 @@
     <ClCompile Include="..\..\libpmemobj\stats.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\common\os_dimm_windows.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\common\os_deep_windows.c" />
+    <ClCompile Include="..\..\common\os_dimm_none.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="out0.log.match">
